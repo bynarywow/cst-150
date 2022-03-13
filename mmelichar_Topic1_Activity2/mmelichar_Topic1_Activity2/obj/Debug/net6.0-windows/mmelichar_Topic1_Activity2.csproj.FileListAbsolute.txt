@@ -1,0 +1,17 @@
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\bin\Debug\net6.0-windows\mmelichar_Topic1_Activity2.exe
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\bin\Debug\net6.0-windows\mmelichar_Topic1_Activity2.deps.json
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\bin\Debug\net6.0-windows\mmelichar_Topic1_Activity2.runtimeconfig.json
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\bin\Debug\net6.0-windows\mmelichar_Topic1_Activity2.dll
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\bin\Debug\net6.0-windows\mmelichar_Topic1_Activity2.pdb
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.Activity2_mmelichar.resources
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.AssemblyInfo.cs
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.dll
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\refint\mmelichar_Topic1_Activity2.dll
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.pdb
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\mmelichar_Topic1_Activity2.genruntimeconfig.cache
+C:\Users\Micha\source\repos\mmelichar_Topic1_Activity2\mmelichar_Topic1_Activity2\obj\Debug\net6.0-windows\ref\mmelichar_Topic1_Activity2.dll

@@ -1,0 +1,17 @@
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\bin\Debug\net6.0-windows\WinFormActivity1.exe
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\bin\Debug\net6.0-windows\WinFormActivity1.deps.json
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\bin\Debug\net6.0-windows\WinFormActivity1.runtimeconfig.json
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\bin\Debug\net6.0-windows\WinFormActivity1.dll
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\bin\Debug\net6.0-windows\WinFormActivity1.pdb
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.AssemblyInfo.cs
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.dll
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\refint\WinFormActivity1.dll
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.pdb
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.genruntimeconfig.cache
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\ref\WinFormActivity1.dll
+C:\Users\Micha\source\repos\WinFormActivity1\WinFormActivity1\obj\Debug\net6.0-windows\WinFormActivity1.Activity1_mmelichar.resources

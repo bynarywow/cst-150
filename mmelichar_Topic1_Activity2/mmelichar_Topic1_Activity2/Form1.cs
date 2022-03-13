@@ -1,0 +1,28 @@
+namespace mmelichar_Topic1_Activity2
+{
+    public partial class Activity2_mmelichar : Form
+    {
+        public Activity2_mmelichar()
+        {
+            InitializeComponent();
+        }
+
+        private void btnClickThis_Click(object sender, EventArgs e)
+        {
+            //Declare variables
+            double number;
+            double weight;
+            //Per Google, gravity on Earth = 9.807m/s^2
+            const double GravityEarth = 9.807;
+            //Per Google, gravity on Mars = 3.721m/s^2
+            const double GravityMars = 3.721;
+            //assign input to variable
+            number = double.Parse(textBoxInput.Text);
+            //calculate weight on mars by dividing Earth's gravitational pull
+            //and multiplying by mars' gravitational pull, then round at 6 digits
+            //per example shown for rubric
+            weight = Math.Round(((number / GravityEarth) * GravityMars), 6);
+            textBoxOutput.Text = weight.ToString();
+        }
+    }
+}
