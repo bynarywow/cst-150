@@ -1,0 +1,8 @@
+First word(Alphabetically): abra
+
+Last word(Alphabetically): zubat
+
+Longest word: aerodactyl
+
+Word with the most vowels: nidoqueen
+
