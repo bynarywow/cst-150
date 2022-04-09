@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mmelichar_Topic5_Activity11/1.0.0": {
+        "runtime": {
+          "mmelichar_Topic5_Activity11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mmelichar_Topic5_Activity11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
