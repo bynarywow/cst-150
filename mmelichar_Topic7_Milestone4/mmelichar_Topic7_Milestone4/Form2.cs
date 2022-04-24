@@ -12,18 +12,16 @@ namespace mmelichar_Topic7_Milestone4
 {
     public partial class Form2 : Form
     {
-       // List<Inventory> inventory = null;
-
         public Form2()
         {
             InitializeComponent();
-
-           // inventory = list;
         }
+        //pass sku back
         public int getSku ()
         {
             return Int32.Parse(textBox1.Text);
         }
+        //pass count of qty to restock
         public int getCount()
         { 
             return Int32.Parse(inputTextBox.Text);
@@ -33,11 +31,11 @@ namespace mmelichar_Topic7_Milestone4
 
         }
 
+        //close form, other form controls list, we get
+        //what we need from getsku/getcount
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
-          //  int[] val= { 1, 2 };
-           // return val;
         }
 
         private void label1_Click(object sender, EventArgs e)
