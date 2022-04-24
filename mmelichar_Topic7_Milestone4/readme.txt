@@ -1,7 +1,7 @@
 https://youtu.be/5glBVfnhlx8
 This video goes over my project's code and functionality.
 
-The code is located here: 
+The code is located here: https://github.com/bynarywow/cst-150/tree/main/mmelichar_Topic7_Milestone4
 
 The Inventory class contains a constructor using four inputs, two ints, a string, and a double, as well as an overridden ToString method, and get/set methods.
 
